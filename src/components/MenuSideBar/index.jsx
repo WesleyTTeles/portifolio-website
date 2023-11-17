@@ -10,27 +10,27 @@ export default function MenuSideBar() {
       <div className="flex flex-col">
         <a
           href="#main"
-          className="rounded-full shadow-lg bg-gray-10 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
+          className="rounded-full shadow-lg bg-gray-100 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
         >
-          <AiOutlineHome size={20} />
+          <AiOutlineHome color="#7562E0" size={20} />
         </a>
         <a
           href="#aboutme"
-          className="rounded-full shadow-lg bg-gray-10 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
+          className="rounded-full shadow-lg bg-gray-100 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
         >
-          <BsPerson size={20} />
+          <BsPerson color="#7562E0" size={20} />
         </a>
         <a
           href="#freelancer"
-          className="rounded-full shadow-lg bg-gray-10 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
+          className="rounded-full shadow-lg bg-gray-100 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
         >
-          <AiOutlineProject size={20} />
+          <AiOutlineProject color="#7562E0" size={20} />
         </a>
         <a
           href="#projects"
-          className="rounded-full shadow-lg bg-gray-10 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
+          className="rounded-full shadow-lg bg-gray-100 shadow-gray-300 m-3 p-4 cursor-pointer hover:scale-110 ease-in duration-300"
         >
-          <GrProjects size={20} />
+          <GrProjects color="#7562E0" size={20} />
         </a>
       </div>
     </div>

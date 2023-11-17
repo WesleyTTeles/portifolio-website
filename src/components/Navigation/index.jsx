@@ -19,7 +19,7 @@ export default function Navigation() {
           <AiOutlineClose
             onClick={handleNav}
             size={28}
-            className="absolute top-10 right-10 z-[99] md:hidden"
+            className="absolute top-5 right-5 z-[99] md:hidden"
           />
           <MenuMobile />
         </>
@@ -27,7 +27,7 @@ export default function Navigation() {
         <AiOutlineMenu
           onClick={handleNav}
           size={28}
-          className="absolute top-10 right-10 z-[99] md:hidden"
+          className="absolute top-5 right-5 z-[99] md:hidden"
         />
       )}
       <MenuSideBar />
