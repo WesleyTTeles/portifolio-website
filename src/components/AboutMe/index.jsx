@@ -19,7 +19,7 @@ export default function Aboutme() {
       </p>
       <button className="w-[240px] h-[44px] my-5 bg-[#000035] rounded-lg cursor-pointer hover:scale-110 ease-in duration-300">
         <a
-          href="src/assets/Doc/Curriculo.pdf"
+          href="../../assets/Doc/Curriculo.pdf"
           download="download"
           className="w-full h-full flex justify-center items-center gap-3 text-white"
         >
