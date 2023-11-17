@@ -1,6 +1,8 @@
 import React from "react";
 import { AiOutlineCloudDownload } from "react-icons/ai";
 
+import CvPdf from "../../assets/Doc/Curriculo.pdf";
+
 export default function Aboutme() {
   return (
     <div
@@ -19,7 +21,7 @@ export default function Aboutme() {
       </p>
       <button className="w-[240px] h-[44px] my-5 bg-[#000035] rounded-lg cursor-pointer hover:scale-110 ease-in duration-300">
         <a
-          href="../../assets/Doc/Curriculo.pdf"
+          href={CvPdf}
           download="download"
           className="w-full h-full flex justify-center items-center gap-3 text-white"
         >
