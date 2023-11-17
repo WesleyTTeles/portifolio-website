@@ -1,8 +1,24 @@
-# React + Vite
+# Portfólio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este é o repositório do meu portfólio pessoal desenvolvido com React, Vite e Tailwind CSS.
 
-Currently, two official plugins are available:
+## Visão Geral
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Este projeto contém o código-fonte do meu site pessoal, onde exibo meus projetos, habilidades e informações relevantes sobre mim.
+
+## Recursos
+
+- Apresentação dos meus projetos anteriores
+- Seção de habilidades técnicas
+- Seção de Projetos como Freelancer
+
+## Tecnologias Utilizadas
+
+- React: Framework JavaScript para a construção da interface do usuário
+- Vite: Bundler e ferramenta de desenvolvimento rápido
+- Tailwind CSS: Framework CSS para estilização rápida e eficiente
+
+## Autor
+
+Wesley Teles
+Contato: wesley.teles.dev@gmail.com

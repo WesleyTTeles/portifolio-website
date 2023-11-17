@@ -21,7 +21,7 @@ export default function Navigation() {
             size={28}
             className="absolute top-5 right-5 z-[99] md:hidden"
           />
-          <MenuMobile />
+          <MenuMobile handleNav={handleNav} />
         </>
       ) : (
         <AiOutlineMenu
