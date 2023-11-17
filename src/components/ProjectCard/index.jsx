@@ -5,7 +5,7 @@ export default function ProjectCard({ imgUrl, title, description }) {
     <div className="flex flex-col items-center justify-center h-full w-full max-w-[400px] shadow-xl shadow-gray-400 rounded-xl ">
       <img
         src={imgUrl}
-        alt="img"
+        alt={title}
         width={400}
         className="rounded-xl group-hover:opacity-10"
       />

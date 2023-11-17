@@ -34,7 +34,8 @@ export default function Main() {
             />
           </h2>
           <span className="sm:text-2xl text-xl  w-full my-4 p-1 text-center text-[#000035] ">
-            Formado em Desenvolvimento de Sistemas e amante da tecnologia.
+            Front-end Developer graduated in Systems Development and Technology
+            Enthusiast
           </span>
           <IconsButton />
         </div>
