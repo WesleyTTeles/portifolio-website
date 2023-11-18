@@ -13,7 +13,7 @@ export default function MenuMobile({ handleNav }) {
         className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200"
       >
         <AiOutlineHome size={20} />
-        <span className="p-4">Home</span>
+        <span className="p-4">Início</span>
       </a>
       <a
         onClick={handleNav}
@@ -21,7 +21,7 @@ export default function MenuMobile({ handleNav }) {
         className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200"
       >
         <BsPerson size={20} />
-        <span className="p-4">About me</span>
+        <span className="p-4">Sobre</span>
       </a>
       <a
         onClick={handleNav}
@@ -37,7 +37,7 @@ export default function MenuMobile({ handleNav }) {
         className="w-[75%] flex justify-center items-center rounded-full shadow-lg bg-gray-100 shadow-gray-400 m-2 p-4 cursor-pointer hover:scale-110 ease-in duration-200"
       >
         <GrProjects size={20} />
-        <span className="p-4">Projects</span>
+        <span className="p-4">Projetos</span>
       </a>
     </div>
   );
