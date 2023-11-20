@@ -10,7 +10,7 @@ export default function Aboutme() {
       className="max-w-[1280px] flex flex-col items-center m-auto md:pl-20 p-4 py-12"
     >
       <h1 className="text-4xl font-bold text-[#000035]">Sobre mim</h1>
-      <p className="sm:text-lg text-2xl text-justify py-8 text-zinc-800">
+      <p className="text-base md:text-lg text-justify py-8 text-zinc-800">
         Trabalhei como gerente operacional, onde tive a oportunidade de
         gerenciar projetos e desenvolver soluções para a empresa. Foi nesse
         contexto que surgiu minha paixão pela tecnologia, o que me levou a
